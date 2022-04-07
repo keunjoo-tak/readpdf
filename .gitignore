@@ -1,6 +1,8 @@
 file
 output
 paper
+NHF
+NHF_output
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
